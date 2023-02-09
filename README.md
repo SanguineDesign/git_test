@@ -1,3 +1,3 @@
 # git_test
-learning is c00l
-Hello Odin!
+This is my first foray into the world of git and github.
+Hello Odin! 
